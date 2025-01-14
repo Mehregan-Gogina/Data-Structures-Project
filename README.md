@@ -14,7 +14,7 @@
 - [Contact](#contact)
 
 ## Description
-This repository contains a comprehensive collection of data structures implemented in Java. Designed for educational purposes, it covers a variety of data structures including Linked Lists, Stacks, Queues, Trees, Graphs, and more. Each implementation is accompanied by detailed comments and usage examples to facilitate understanding and learning.
+This repository contains a comprehensive collection of data structures implemented in Java for my Data Structures course at the university. Designed for educational purposes, it covers data structures including Linked Lists, Graphs, and more.
 
 ## Features
 - **Diverse Implementations:** Covers common and advanced data structures such as Linked Lists, Stacks, Queues, Binary Trees, Heaps, Graphs, and more.
