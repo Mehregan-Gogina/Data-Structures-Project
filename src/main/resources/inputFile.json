@@ -1,0 +1,56 @@
+[
+  {
+    "ID": 1,
+    "Name": "John Smith",
+    "Year of Birth": 2020,
+    "University": "MIT",
+    "Major": "Electrical Engineer",
+    "Job Place": "TechCorp",
+    "Connections": [2]
+  },
+  {
+    "ID": 2,
+    "Name": "Emily Davis",
+    "Year of Birth": 1998,
+    "University": "Harvard",
+    "Major": "Computer Engineer",
+    "Job Place": "Micro lab",
+    "Connections": [1, 4]
+  },
+  {
+    "ID": 3,
+    "Name": "Michael Brown",
+    "Year of Birth": 1989,
+    "University": "Stanford",
+    "Major": "Computer Engineer",
+    "Job Place": "DB lab",
+    "Connections": [4]
+  },
+  {
+    "ID": 4,
+    "Name": "Sarah Johnson",
+    "Year of Birth": 1992,
+    "University": "Yale",
+    "Major": "Chemistry",
+    "Job Place": "PharmaInc",
+    "Connections": [2, 3, 5]
+  },
+  {
+    "ID": 5,
+    "Name": "David Wilson",
+    "Year of Birth": 1990,
+    "University": "Caltech",
+    "Major": "Physics",
+    "Job Place": "SpaceX",
+    "Connections": [4, 6]
+  },
+  {
+    "ID": 6,
+    "Name": "Arman Saeidi",
+    "Year of Birth": 1980,
+    "University": "IUT",
+    "Major": "Electrical Engineer",
+    "Job Place": "Teacher",
+    "Connections": [5]
+  }
+]
